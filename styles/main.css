@@ -9462,6 +9462,24 @@ section.friends-wishes {
       color: white;
       font-size: 40px;
       margin-left: 250px;
-      font-family:"cursive";
+      font-family:""Great Vibes", cursive;
     }
-    
+    .container{
+      height: 100%;
+      width: 100%;
+
+    }
+    .counter{
+      
+      background-image: url('../images/heart.jpg');
+      background-size: cover;
+     background-position: 70%;
+  height: 50vh;
+  min-height: 350px;
+  
+    }
+    .tada{
+      color: white;
+      font-size: 25px;
+      margin-top: 100px;
+    }
