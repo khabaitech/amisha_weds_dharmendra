@@ -9037,7 +9037,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/") no-repeat;
+  background: url("../images/home-img.jpg") no-repeat;
   background-size: cover;
   background-position: 70%;
   height: 110vh;
@@ -9285,8 +9285,8 @@ body {
   font-family: "serif", cursive;
 }
 .ww-title1{
-  font-family: serif;
-  margin-left: -120rem;
+  font-family: "sans-serif", cursive;
+  font-size: 30px;
 }
 .ww-title2{
   font-family: "Great Vibes", cursive;
@@ -9341,6 +9341,9 @@ font-size: 20px;
 }
 .img3{
   position: relative;
+  margin-left: 750px;
+  margin-top: -200px;
+  
   margin-left: -600px;
 }
 
