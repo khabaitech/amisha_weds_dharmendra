@@ -9297,14 +9297,26 @@ body {
   z-index:-1;
   margin-top: -600px;
 }
+.ww-title4{
+  color: brown;
+}
+.ww-title5{
+  color: brown;
+}
+.ww-title6{
+  color: brown;
+}
+.ww-title7{
+  color: brown;
+}
 .p1{
 margin-left: 250px;
 margin-top: -15px;
-font-size: 25px;
+font-size: 20px;
 }
 .sub-heading{
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
 }
 .ww-section {
   padding: 100px 0;
